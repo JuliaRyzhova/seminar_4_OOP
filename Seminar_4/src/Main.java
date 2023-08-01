@@ -1,0 +1,34 @@
+import org.jmlspecs.annotation.*;
+//
+//public class Calculator {
+//    /**
+//     * Выполняет деление двух чисел.
+//     *
+//     * @param dividend делимое (число, которое делим)
+//     * @param divisor  делитель (число, на которое делим)
+//     * @return результат деления в виде десятичной дроби типа double
+//     * @throws ArithmeticException если делитель равен нулю
+//     */
+//    @Requires("divisor != 0")
+//    public double divide(@NonNull double dividend, double divisor) throws ArithmeticException {
+//        if (divisor == 0) {
+//            throw new ArithmeticException("Cannot divide by zero.");
+//        }
+//        return dividend / divisor;
+//    }
+//}
+import jcoco.*;
+
+public class Example {
+    /**
+     * Пример метода с контрактом.
+     *
+     * @param value аргумент метода
+     * @return результат метода
+     * @throws NullPointerException если аргумент value равен null
+     */
+    @NotNull
+    public String exampleMethod(@NotNull String value) throws NullPointerException {
+        return value.toUpperCase();
+    }
+}

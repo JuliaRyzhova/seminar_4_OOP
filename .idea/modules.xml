@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Example_1/Example_1.iml" filepath="$PROJECT_DIR$/Example_1/Example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_3/Example_3.iml" filepath="$PROJECT_DIR$/Example_3/Example_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_4/Example_4.iml" filepath="$PROJECT_DIR$/Example_4/Example_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_5/Example_5.iml" filepath="$PROJECT_DIR$/Example_5/Example_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_6/Example_6.iml" filepath="$PROJECT_DIR$/Example_6/Example_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar_4/Seminar_4.iml" filepath="$PROJECT_DIR$/Seminar_4/Seminar_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new_module/new_module.iml" filepath="$PROJECT_DIR$/new_module/new_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar_3_OOP.iml" filepath="$PROJECT_DIR$/seminar_3_OOP.iml" />
+    </modules>
+  </component>
+</project>
